@@ -46,4 +46,5 @@ void sort (int Array[])
         cout << endl;
     }
     while (!sorted);    //stops the loop when all values are in ascending order
+    
 }
